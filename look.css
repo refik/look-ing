@@ -1,8 +1,18 @@
 /*
  * Globals
  */
-#ing-logo {
+#ing-big {
     margin-bottom:20px;
+    width: 300px;
+}
+
+#smart-bar {
+    width: 496px;
+}
+
+#ing-small {
+    width: 120px;
+    margin-right: 20px;
 }
 
 /* Links */
